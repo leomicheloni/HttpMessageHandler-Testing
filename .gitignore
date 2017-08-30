@@ -1,0 +1,4 @@
+/packages
+*.suo
+/HttpClientTest/bin
+/HttpClientTest/obj
